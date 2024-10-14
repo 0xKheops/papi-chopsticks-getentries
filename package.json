@@ -1,0 +1,17 @@
+{
+  "name": "papi-chopsticks-getentries",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@polkadot-api/descriptors": "file:.papi/descriptors",
+    "@types/lodash": "^4.17.10",
+    "lodash": "^4.17.21",
+    "polkadot-api": "^1.5.1"
+  }
+}

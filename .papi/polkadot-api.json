@@ -1,0 +1,14 @@
+{
+  "version": 0,
+  "descriptorPath": ".papi/descriptors",
+  "entries": {
+    "chopsticksAssetHub": {
+      "wsUrl": "ws://localhost:8000",
+      "metadata": ".papi/metadata/chopsticksAssetHub.scale"
+    },
+    "realAssetHub": {
+      "wsUrl": "wss://polkadot-asset-hub-rpc.polkadot.io",
+      "metadata": ".papi/metadata/realAssetHub.scale"
+    }
+  }
+}
